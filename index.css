@@ -120,7 +120,7 @@ p {
         height: 260px;
         border: 2px solid white;
         border-radius: 40px;
-        background-image: url("../IMAGES/istockphoto-892012180-170667a.jpg");
+        background-image: url("./assets/istockphoto-892012180-170667a.jpg");
         background-size: cover;
     }
 }
